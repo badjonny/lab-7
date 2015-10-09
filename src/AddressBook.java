@@ -1,7 +1,7 @@
 import java.util.Iterator;
 
 /**
-   An address book for looking up information about people.
+   An address book for looking up information about doges.
 */
 public interface AddressBook {
 
